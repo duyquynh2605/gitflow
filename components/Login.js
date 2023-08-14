@@ -46,7 +46,6 @@ const windownHeight = Dimensions.get('window').height;
                     </View>
 
 
-
                 </View>
 
             </SafeAreaView>
