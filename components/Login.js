@@ -36,7 +36,7 @@ const windownHeight = Dimensions.get('window').height;
                                 navigation.navigate('App')
                             }}
                             >
-                            <Text style={{color:'white', fontSize: 20}}>Đăng Nhập</Text>
+                            <Text style={{ fontSize: 20}}>Đăng Nhập</Text>
 
                         </TouchableOpacity>
                         <TouchableOpacity style={{backgroundColor:'#4D33B9',marginTop: 20, width: '60%', height:'30%', borderColor: 'white', borderWidth: 1, borderRadius: 100, justifyContent: 'center', alignItems: 'center'}}>
@@ -44,7 +44,6 @@ const windownHeight = Dimensions.get('window').height;
                         </TouchableOpacity>
 
                     </View>
-
 
 
                 </View>
